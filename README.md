@@ -11,4 +11,8 @@ This is my assignments for Data Analysis with Python course I started before I w
 * Lab 6 — LPM and logistic regressions
 
 ## Datasets used
+* Lab 1 — Working from Home Dataset from [Gabors Data Analysis](https://gabors-data-analysis.com/datasets/#working-from-home)
+* Lab 2-3, 5-6 — The Quality of Government (Cross-section data) from [University of Gothenburg](https://www.gu.se/en/quality-government/qog-data/data-downloads/basic-dataset)
+* Lab 4 — Real GDP (Gross Domestic Product) and Real GFCF (Gross Fixed Capital Formation) data from [The Fed St. Louis](https://fred.stlouisfed.org/)
+
 
